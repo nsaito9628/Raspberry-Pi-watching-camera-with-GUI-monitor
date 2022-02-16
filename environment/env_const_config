@@ -1,0 +1,6 @@
+##########Raspberry-Pi-watching-camera-with-GUI-monitor default parameters###########
+#
+#Event recorder mp4 file upload destination bucket name
+S3BUCKET=gui-watching-camera
+#Data storage destination prefix name of event recorder camera1
+CAM_NO=cam1

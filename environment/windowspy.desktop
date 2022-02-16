@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=windowspy
+Exec=lxterminal -e python /home/pi/main.py
